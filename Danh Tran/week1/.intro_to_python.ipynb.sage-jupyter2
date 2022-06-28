@@ -18,7 +18,7 @@
 {"cell_type":"code","exec_count":20,"id":"22ffb7","input":"a = True\nb = False \nc = a - b \n\nprint(a)\nprint(b)\nprint(c)\n","output":{"0":{"name":"stdout","output_type":"stream","text":"True\nFalse\n1\n"}},"pos":20,"type":"cell"}
 {"cell_type":"code","exec_count":20,"id":"b352df","input":"a = 1\nb = 2\nif a > b:\n    print(\"a is greater than b\")\nelse:\n    print(\"b is less than a\")","output":{"0":{"name":"stdout","output_type":"stream","text":"b is less than a\n"}},"pos":45,"type":"cell"}
 {"cell_type":"code","exec_count":21,"id":"0a9ac5","input":"a = 1\nb = 1\nif a > b:\n    print(\"a is greater than b\")\nelif a == b:\n    print(\"a equals b\")\nelse:\n    print(\"b is less than a\")","output":{"0":{"name":"stdout","output_type":"stream","text":"a equals b\n"}},"pos":47,"type":"cell"}
-{"cell_type":"code","exec_count":21,"id":"ce59b7","input":"for i in range(11):\n    if i % 2 == 0 and i!= 0:\n        print (i)\n        if i < 9 and i > 5:\n            print (i)","output":{"0":{"name":"stdout","output_type":"stream","text":"2\n4\n6\n6\n8\n8\n10\n"}},"pos":52,"type":"cell"}
+{"cell_type":"code","exec_count":21,"id":"ce59b7","input":"for i in range(11):\n    if i % 2 == 0 and i != 0:\n        print(i)\n        if i < 9 and i > 5:\n            print(i)","output":{"0":{"name":"stdout","output_type":"stream","text":"2\n4\n6\n6\n8\n8\n10\n"}},"pos":52,"type":"cell"}
 {"cell_type":"code","exec_count":22,"id":"55590a","input":"def my_first_function():\n    print('Hello world')","pos":58,"type":"cell"}
 {"cell_type":"code","exec_count":23,"id":"5f2cb0","input":"my_first_function()","output":{"0":{"name":"stdout","output_type":"stream","text":"Hello world\n"}},"pos":59,"type":"cell"}
 {"cell_type":"code","exec_count":24,"id":"7b70ad","input":"def add_numbers(a, b, c):\n    total = a + b + c\n    print(total)","pos":62,"type":"cell"}
@@ -103,5 +103,5 @@
 {"cell_type":"markdown","id":"e6577b","input":"### Numpy \\- For Scientific Computing in Python\n\nBelow, we will import the numpy module and use a few of its functions to show off this power. Numpy is a library which is coded outside of python, making it faster. It gives us access to better and more efficient lists\n\nFor any module you encounter, you should be prepared to <u>read the docs.</u> The \"docs\" are how we can learn to use each module, and you can find Numpy's here: [https://numpy.org/. ](https://numpy.org/)\n\n**For using modules, you'll want to import them like so below.**\n\n","pos":75,"type":"cell"}
 {"cell_type":"markdown","id":"ecd07f","input":"First up, lists. you can create a list with the following code.\n\n","pos":23,"type":"cell"}
 {"cell_type":"markdown","id":"febed9","input":"Whenever the computer sees the function being used, it automatically runs the code stored inside of that function.","pos":60,"type":"cell"}
-{"id":0,"time":1656355151882,"type":"user"}
-{"last_load":1656392874598,"type":"file"}
+{"id":0,"time":1656436464085,"type":"user"}
+{"last_load":1656436464520,"type":"file"}

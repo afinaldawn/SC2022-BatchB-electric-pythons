@@ -102,5 +102,5 @@
 {"cell_type":"markdown","id":"f81e66","input":"Below, create a list of your favorite colors. \n","pos":30,"type":"cell"}
 {"cell_type":"markdown","id":"f8a944","input":"In the block below, we will make a while loop that runs 5 times. For while loops, we can't specify how long they will run for ahead of time so its important for us to create an achievable exit condition. An exit condition is just the condition that will cause the code to stop running. This is checked every time, immediatly before the code runs or reruns. We want to make sure that this condition will eventually happen, otherwise the code will run until something crashes or we manually close it","pos":40,"type":"cell"}
 {"cell_type":"markdown","id":"faaaf4","input":"**TODO:** Now its your turn. We will have students create their own version of this data type.\n","pos":29,"type":"cell"}
-{"id":0,"time":1656359963840,"type":"user"}
-{"last_load":1656392866456,"type":"file"}
+{"id":0,"time":1656438858533,"type":"user"}
+{"last_load":1656435147585,"type":"file"}
