@@ -60,5 +60,5 @@
 {"cell_type":"markdown","id":"f3c9fb","input":"Conditions in pandas work just like `if` statements in python. \n\n**TODO: Can you tell me which species of penguin can have a flipper length greater than or equal to 230 by using conditions in pandas?**\n\n","pos":31,"type":"cell"}
 {"cell_type":"raw","id":"2734b8","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":59,"type":"cell"}
 {"cell_type":"raw","id":"9cc20e","input":"What do these columns mean?\n\nFor adelie penguins, males tend to have a large culmen length, by a few centimeters. For the culmen depth, males have a slightly deeper culmen than those of their female counterparts. \n\nMale chinstrap penguins also tend to have a larger culmen lenght, of about 49-51mms, while the females have slightly shorter ones of about 45-46mm respectively. The culmen depth averages around 19mm, and the females have around 18mm. \n\nFor all penguins, flipper length and body mass have a positive correlation. \n\n\n","pos":12,"type":"cell"}
-{"id":0,"time":1656612366589,"type":"user"}
-{"last_load":1656611382880,"type":"file"}
+{"id":0,"time":1657044520604,"type":"user"}
+{"last_load":1657051032856,"type":"file"}
