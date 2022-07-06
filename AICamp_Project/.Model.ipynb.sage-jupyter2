@@ -117,6 +117,6 @@
 {"exec_count":51,"id":"3a1d27","input":"from sklearn.linear_model import LogisticRegression #Logistic Regression","kernel":"ds_env","pos":43,"state":"done","type":"cell"}
 {"id":"361db6","input":"","pos":44.484375,"type":"cell"}
 {"id":"542820","input":"","pos":42.999755859375,"type":"cell"}
-{"id":"8f2395","input":"# Decision Tree splitting and fitting\nx_tree_train, x_tree_test, y_tree_train, y_tree_test = train_test_split(x_tree, y_tree, test_size=0.8)\nheart_disease_tree = tr.DecisionTreeClassifier(max_leaf_nodes=10, random_state = 42)\nheart_disease_tree.fit(x_tree_train, y_tree_train)\n\ny_tree_hat = ","pos":61,"type":"cell"}
+{"id":"8f2395","input":"# Decision Tree splitting and fitting\nx_tree_train, x_tree_test, y_tree_train, y_tree_test = train_test_split(x_tree, y_tree, test_size=0.8)\nheart_disease_tree = tr.DecisionTreeClassifier(max_leaf_nodes=10, random_state = 42)\nheart_disease_tree.fit(x_tree_train, y_tree_train)\n\ny_tree_hat = heart_disease_tree.predict(x_tree_test)\n\nsns.heatmap(confusion_matrix(y_test, predictions))","pos":61,"type":"cell"}
 {"id":0,"time":1657140715706,"type":"user"}
 {"last_load":1657124456496,"type":"file"}
