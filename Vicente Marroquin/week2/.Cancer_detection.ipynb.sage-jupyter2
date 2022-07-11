@@ -84,5 +84,5 @@
 {"cell_type":"markdown","id":"e8f095","input":"Now create some predictions and set them equal to `y_hat`. You can look above or google how to make predictions on sklearn if you get confused!","metadata":{"id":"4oAExynzsveF"},"pos":64,"type":"cell"}
 {"cell_type":"markdown","id":"ef66a3","input":"Step 2 - Evaluation: Here we want to compare `y_hat` to `y_test`. Discuss with your team about why we should do this. \n\nOne we we can compare them is visual inspection. With that said, would you recommend going through by hand and making a tally for every time the one's and zero's don't match up?\n\nPlease don't do this. Please save yourself this nasty headache when we can just do math. Below is a common way to do this, called mean squared error. \n\nTo get mean squared error, we compute the difference between each element in `y_hat` and `y_test` and square it and then get the average of all of that to see how far off we are.","metadata":{"id":"SbywAxezkRN8"},"pos":51,"type":"cell"}
 {"cell_type":"markdown","id":"f8e45d","input":"Compute your MSE below. Is this higher or lower than KNN? Which one would you recommend so far?\n\n","metadata":{"id":"k-ANsXzitBdu"},"pos":66,"type":"cell"}
-{"id":0,"time":1657214018106,"type":"user"}
-{"last_load":1657214020076,"type":"file"}
+{"id":0,"time":1657564120076,"type":"user"}
+{"last_load":1657564120037,"type":"file"}

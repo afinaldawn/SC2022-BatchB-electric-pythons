@@ -53,5 +53,5 @@
 {"cell_type":"markdown","id":"ffceee","input":"Conditions in pandas work just like `if` statements in python. \n\n**TODO: Can you tell me which species of penguin can have a flipper length greater than or equal to 230 by using conditions in pandas?**\n\n","pos":28,"type":"cell"}
 {"cell_type":"raw","id":"55cc62","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":52,"type":"cell"}
 {"cell_type":"raw","id":"e5b2f8","input":"What do these columns mean?\nClutch = nest of eggs\nClutch competition = nest-side competition or competition over breeding sites\nA clutch with more than one egg presents a better chance of at least one chick surviving.\nCulmen = upper ridge of a bird's bill\nCulmen length = measured inward to outward\nCulmen depth = measured top to down\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1657217376911,"type":"user"}
-{"last_load":1657214305444,"type":"file"}
+{"id":0,"time":1657300561626,"type":"user"}
+{"last_load":1657300562324,"type":"file"}

@@ -1,4 +1,4 @@
-{"backend_state":"running","connection_file":"/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/.local/share/jupyter/runtime/kernel-3cdbbb43-51a4-45fc-acf8-5e6fdf65222d.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","trust":true,"type":"settings"}
+{"backend_state":"init","connection_file":"/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/.local/share/jupyter/runtime/kernel-3cdbbb43-51a4-45fc-acf8-5e6fdf65222d.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
 {"end":1657213999993,"exec_count":1,"id":"996ce9","input":"import numpy as np\nimport pandas as pd\nimport seaborn as sns\nimport plotly.express as px\nimport matplotlib.pyplot as plt","kernel":"ds_env","pos":-1,"start":1657213998545,"state":"done","type":"cell"}
 {"end":1657214008260,"exec_count":2,"id":"828ff5","input":"df = pd.read_csv('heart.csv')","kernel":"ds_env","pos":0,"start":1657214008229,"state":"done","type":"cell"}
 {"end":1657214016198,"exec_count":3,"id":"c59935","input":"plt.figure(figsize=(15,5))\nsns.boxplot(data=df,orient='h')","kernel":"ds_env","output":{"0":{"data":{"text/plain":"<AxesSubplot:>"},"exec_count":3},"1":{"data":{"image/png":"8cd9da890928fbe53f1352b20367944efe4be76d","text/plain":"<Figure size 1080x360 with 1 Axes>"},"metadata":{"needs_background":"light"}}},"pos":1,"start":1657214015802,"state":"done","type":"cell"}
@@ -25,5 +25,5 @@
 {"end":1657214494758,"exec_count":28,"id":"6d484d","input":"#F1\nNBF1_score = (2 * NBPrecision_score * NBRecall_score)/(NBPrecision_score + NBRecall_score)\nprint(NBF1_score)","kernel":"ds_env","output":{"0":{"name":"stdout","text":"0.7953216374269007\n"}},"pos":22,"start":1657214494751,"state":"done","type":"cell"}
 {"end":1657214532902,"exec_count":29,"id":"9d40b0","input":"total_squared_error = (np.sum((y_test - y_hat)**2))\nmean_squared_error = total_squared_error/len(y_test)\nprint(mean_squared_error)","kernel":"ds_env","output":{"0":{"name":"stdout","text":"0.17326732673267325\n"}},"pos":23,"start":1657214532893,"state":"done","type":"cell"}
 {"id":"8cf5fb","input":"","pos":24,"type":"cell"}
-{"id":0,"time":1657215971699,"type":"user"}
+{"id":0,"time":1657571891579,"type":"user"}
 {"last_load":1657213958953,"type":"file"}
