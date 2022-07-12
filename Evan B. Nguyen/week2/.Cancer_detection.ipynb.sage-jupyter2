@@ -87,4 +87,4 @@
 {"cell_type":"markdown","id":"f18135","input":"### Step 2: Do Your Research\nThat is a ton of columns. That is a ton of data! Where do we start? \n\nYou should probably do some research on this dataset to find out what the columns mean. I got it on kaggle - you can read about it here: [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).\n","metadata":{"id":"XjS_4CFYxx52"},"pos":11,"type":"cell"}
 {"cell_type":"markdown","id":"f1db54","input":"### Are you ready to perform machine learning? \nDo you think deciding whether a tumor is benign or malignant is classification or regression? Talk with your team for a minute.\n\nEither way, we need to tell our code what our target variable is, and what our input is going to be. <br> **TODO:** Can you do so below?","metadata":{"id":"EvyKXnr27SaE"},"pos":32,"type":"cell"}
 {"id":0,"time":1657563739414,"type":"user"}
-{"last_load":1657563739715,"type":"file"}
+{"last_load":1657645411333,"type":"file"}

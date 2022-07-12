@@ -12,4 +12,4 @@
 {"cell_type":"code","exec_count":124,"id":"0f40f9","input":"parameters = {'kernel':('linear', 'rbf'), 'C':[1, 10]}\nmetrics = ['accuracy', 'precision']","pos":3,"type":"cell"}
 {"cell_type":"code","exec_count":73,"id":"1a07ec","input":"from sklearn import svm, datasets\nfrom sklearn.model_selection import GridSearchCV","pos":1,"type":"cell"}
 {"id":0,"time":1657571866539,"type":"user"}
-{"last_load":1657571866756,"type":"file"}
+{"last_load":1657645411335,"type":"file"}

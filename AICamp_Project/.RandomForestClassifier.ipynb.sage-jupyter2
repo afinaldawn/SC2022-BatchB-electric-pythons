@@ -40,5 +40,5 @@
 {"cell_type":"markdown","id":"228ce7","input":"# Recall score: recall\\_score\\(y\\_test, y\\_hat\\_forest\\)\n\n","pos":37,"type":"cell"}
 {"cell_type":"markdown","id":"59fff4","input":"# **The best model turns out to be a RandomForestClassifier instance with n\\_estimators = \\(50\\), bootstrap = \\(False\\), min\\_samples\\_leaf = \\(5\\), oob\\_score = \\(False\\), warm\\_start = \\(True\\).**\n\n","pos":32,"type":"cell"}
 {"cell_type":"markdown","id":"c192a5","input":"**Finding best parameters**\n","pos":20,"type":"cell"}
-{"id":0,"time":1657572984478,"type":"user"}
-{"last_load":1657563068073,"type":"file"}
+{"id":0,"time":1657650888986,"type":"user"}
+{"last_load":1657649888743,"type":"file"}

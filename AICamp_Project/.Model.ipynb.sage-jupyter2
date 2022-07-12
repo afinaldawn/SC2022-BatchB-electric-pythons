@@ -121,5 +121,5 @@
 {"cell_type":"markdown","id":"b756ef","input":"## Scaling our Data","pos":46,"type":"cell"}
 {"cell_type":"markdown","id":"c60dce","input":"### Column Assignments\n\n","pos":9,"type":"cell"}
 {"cell_type":"markdown","id":"d098ae","input":"Danh & Vicente - age, sex, cp, trestbps\n\nEvan & Alex - fbs, restecg, thalach, exang\n\nSophia & Hikaru -  oldpeak, slope, ca, thal\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1657563401580,"type":"user"}
-{"last_load":1657562674548,"type":"file"}
+{"id":0,"time":1657653536905,"type":"user"}
+{"last_load":1657649885586,"type":"file"}
