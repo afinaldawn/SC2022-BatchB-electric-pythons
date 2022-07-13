@@ -54,5 +54,5 @@
 {"cell_type":"markdown","id":"ff2303","input":"**TODO:** Can you run the .head\\(\\) and .tail\\(\\) function on our new dataframe? Can you print the name of all the columns in our dataframe? How about the number of rows?\n","pos":5,"type":"cell"}
 {"cell_type":"raw","id":"e402c1","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":53,"type":"cell"}
 {"cell_type":"raw","id":"e54b6d","input":"What do these columns mean?\n\nWhat if I wanted to predict flipper length?\n    Clutch completion:rel to amt eggs laid, if \"full\" nest eggs (For penguins, 2 eggs)\n    \n    Culmen in length of bird's beak --> could be related to len of bird's beak, not sure\n    Culmen dep = depth of the dorsal ridge of a bird's bill (millimeters)\n    Culmen len = length of the dorsal ridge of a bird's bill (millimeters)\n    Flipper len = in mm\n    \n    Isotopes found in blood, shows info on diet and might indicate better nutrition\n    Delta 15N = measure of the ratio of stable isotopes 15N:14N\n    Delta 13C = measure of the ratio of stable isotopes 13C:12C\n    ***If not useful, can drop data and save memory\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1657649879376,"type":"user"}
-{"last_load":1657649878262,"type":"file"}
+{"id":0,"time":1657745948601,"type":"user"}
+{"last_load":1657732721404,"type":"file"}

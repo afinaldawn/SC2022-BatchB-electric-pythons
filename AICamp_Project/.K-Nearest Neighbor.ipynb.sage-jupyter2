@@ -65,4 +65,4 @@
 {"cell_type":"markdown","id":"134ad8","input":"## best model is default with n_neighbors = 3, recall for that model is .9814\n\n## or n_neighbors = 7, weights = \"distance\"\n\n","pos":59,"type":"cell"}
 {"cell_type":"markdown","id":"de3f2a","input":"**Metrics:**\n\nPrecision: 0.9629629629629629 |\nRecall: 0.975 |\nF1: 0.9689440993788819 |\nAccuracy: 97.35449735449735% |\nMSE: 0.026455026455026454\n\n","pos":16,"type":"cell"}
 {"id":0,"time":1657660266841,"type":"user"}
-{"last_load":1657645411341,"type":"file"}
+{"last_load":1657731657780,"type":"file"}
